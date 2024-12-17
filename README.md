@@ -1,4 +1,4 @@
-Cách tải game: Download thư mục Tetris promax, chọn tệp dist rồi click tetris.exe.
+Cách tải game: Download thư mục Tetris master, chọn tệp tetris.exe.
 Giao diện trò chơi:
 
 Màn hình chính là một bảng hình chữ nhật (thường gọi là "playfield").
